@@ -36,4 +36,3 @@ print(sum(quantities))
 # Calculate the total cost for each item (price multiplied by quantity).
 # Then, find the average cost of all items after rounding it to 2 decimal places.
 
-#################### END OF ADVANCED PROBLEM SET  -- end Bell Ringer  ####################
